@@ -1,0 +1,9 @@
+/* TEAM */      
+Author: Yann Madeleine
+Site: http://www.yann-madeleine.com/contact/                        
+Twitter: yann_madeleine
+
+/* SITE */                            
+Standards: HTML5, CSS3,RDFa                            
+Components:  HTML5shiv                            
+Software: Coda, Aptana
