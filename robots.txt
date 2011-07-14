@@ -1,1 +1,2 @@
 User-agent: *
+#yes google even if we are not friend you can index all the content

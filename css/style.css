@@ -164,3 +164,18 @@ button {  width: auto; overflow: visible; }
   h2, h3{ page-break-after: avoid; }
 }
 
+
+blockquote,q {
+	margin:	2em auto 1em auto;
+	display: block;
+}
+article h1 {
+	font-size:	3em;
+	text-align: center;
+}
+article {
+	margin-bottom:	3em;
+}
+body{
+	padding:	1em;
+}
